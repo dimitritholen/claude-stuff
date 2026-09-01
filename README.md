@@ -16,4 +16,8 @@ My personal Claude Code plugin: a curated set of skills wired into one developme
 
 dstack builds on two upstream projects: [pstack](https://github.com/cursor/plugins/tree/main/pstack) by Cursor and [Matt Pocock's skills](https://github.com/mattpocock/skills). Full credits and adaptations are in dstack's [NOTICE.md](https://github.com/dimitritholen/dstack/blob/main/NOTICE.md).
 
+### [skilleditor](https://github.com/dimitritholen/skilleditor) (work in progress)
+
+A cross-platform desktop app (Tauri) for managing agent skills: it indexes the skills already on your machine, lets you edit them and author new ones with AI assistance, and discovers new ones published on GitHub. Installers for Windows, macOS, and Linux are on the [releases page](https://github.com/dimitritholen/skilleditor/releases/latest).
+
 More of my Claude projects will land here as I clean them up for public use.
