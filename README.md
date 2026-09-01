@@ -1,4 +1,4 @@
-# claude-stuff
+![claude-stuff by Dimitri Tholen, AI Engineer](images/banner.jpg)
 
 Everything I build for [Claude Code](https://claude.com/claude-code), in one place.
 
@@ -19,5 +19,7 @@ dstack builds on two upstream projects: [pstack](https://github.com/cursor/plugi
 ### [skilleditor](https://github.com/dimitritholen/skilleditor) (work in progress)
 
 A cross-platform desktop app (Tauri) for managing agent skills: it indexes the skills already on your machine, lets you edit them and author new ones with AI assistance, and discovers new ones published on GitHub. Installers for Windows, macOS, and Linux are on the [releases page](https://github.com/dimitritholen/skilleditor/releases/latest).
+
+![Skilleditor editing a skill: file tree, SKILL.md editor with live preview, and the built-in assistant](images/skilleditor.png)
 
 More of my Claude projects will land here as I clean them up for public use.
