@@ -22,4 +22,10 @@ A cross-platform desktop app (Tauri) for managing agent skills: it indexes the s
 
 ![Skilleditor editing a skill: file tree, SKILL.md editor with live preview, and the built-in assistant](images/skilleditor.png)
 
+### [FlowAI](https://github.com/dimitritholen/flowai-platform) (work in progress)
+
+An agent-first workflow platform: build flows on a visual canvas, run them headless behind webhooks, and watch them execute live on the canvas as they run. The Anthropic model node comes with retries and real token usage, and agent nodes can orchestrate sub-agents with their own tools. Runs locally with Node.js and pnpm in a few minutes; the [repository](https://github.com/dimitritholen/flowai-platform) has the quickstart.
+
+![The FlowAI canvas: an Anthropic model and an HTTP Request tool wired into an agent, which feeds an orchestrator as a sub-agent](images/flowai.png)
+
 More of my Claude projects will land here as I clean them up for public use.
